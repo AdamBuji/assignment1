@@ -1,0 +1,17 @@
+absolootly@ubuntuhost:~/Dropbox/assignments/networking$ vboxmanage showvminfo "Host_Clean"
+Name:            Host_Clean
+Groups:          /
+Guest OS:        Other Linux (32 bit)
+UUID:            07a5f8c3-9694-41e2-b170-7986399e5acc
+Config file:     /home/absolootly/VirtualBox VMs/Host_Clean/Host_Clean.vbox
+Snapshot folder: /home/absolootly/VirtualBox VMs/Host_Clean/Snapshots
+Log folder:      /home/absolootly/VirtualBox VMs/Host_Clean/Logs
+Hardware UUID:   07a5f8c3-9694-41e2-b170-7986399e5acc
+Memory size:     256MB
+....
+IDE (0, 0): /home/absolootly/Dropbox/assignments/networking/linux-microcore-4.0.2-clean.vdi (UUID: 95a9df80-4431-49ba-b777-764918b92c3b)
+IDE (1, 0): Empty
+NIC 1:           MAC: 0800276D274F, Attachment: NAT, Cable connected: on, Trace: off (file: none), Type: Am79C973, Reported speed: 0 Mbps, Boot priority: 0, Promisc Policy: deny, Bandwidth group: none
+NIC 1 Settings:  MTU: 0, Socket (send: 64, receive: 64), TCP Window (send:64, receive: 64)
+....
+

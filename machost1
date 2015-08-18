@@ -1,0 +1,2 @@
+absolootly@ubuntuhost:~$ vboxmanage showvminfo "Host1" | grep 'NIC 1:' | awk '{ print $4}' | sed s/,//
+0800270B4B1A
